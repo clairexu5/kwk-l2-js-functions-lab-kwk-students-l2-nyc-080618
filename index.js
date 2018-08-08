@@ -1,6 +1,6 @@
 // Code your solution in this file!
-function distanceFromHqInBlocks(blocks){
-  return blocks;
+function distanceFromHqInBlocks(street){
+  return street-42;
 }
 
-distanceFromHqInBlocks()
+distanceFromHqInBlocks(street)
