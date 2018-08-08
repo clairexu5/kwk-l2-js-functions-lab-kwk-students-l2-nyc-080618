@@ -16,4 +16,8 @@ function distanceFromHqInFeet(block){
 
 distanceFromHqInFeet(block);
 
-distanceTravelledInFeet()
+function distanceTravelledInFeet(start, end) {
+  return ((end-start)*264);
+}
+
+distanceTravelledInFeet(start, end);
