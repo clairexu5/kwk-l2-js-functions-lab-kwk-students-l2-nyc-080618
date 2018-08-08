@@ -17,7 +17,7 @@ function distanceFromHqInFeet(block){
 distanceFromHqInFeet(block);
 
 function distanceTravelledInFeet(start, end) {
-  var results = ((end-start)*264)
+  var results = ((end-start)*264);
   if (results < 0){
     return results * -1;
   }else{
