@@ -5,3 +5,8 @@ function distanceFromHqInBlocks(street){
 
 distanceFromHqInBlocks(street);
 
+function distanceTravelledInFeet(start, end){
+  return ((start-end) * 264);
+}
+
+distanceTravelledInFeet(start,end)
