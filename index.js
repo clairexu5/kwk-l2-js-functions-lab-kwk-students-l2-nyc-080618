@@ -1,6 +1,6 @@
 // Code your solution in this file!
 function distanceFromHqInBlocks(street){
-  let results = street -42;
+  var results = street -42;
   if (results < 0){
     return results * -1;
   }else{
