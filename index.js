@@ -10,8 +10,8 @@ function distanceFromHqInBlocks(street){
 
 distanceFromHqInBlocks(street);
 
-function distanceTravelledInFeet(start, end){
+function distanceFromHqInFeet(start, end){
   return ((start-end) * 264);
 }
 
-distanceTravelledInFeet(start,end)
+distanceFromHqInFeet(start,end)
