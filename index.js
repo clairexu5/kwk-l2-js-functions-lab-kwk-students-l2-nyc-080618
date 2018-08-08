@@ -3,6 +3,8 @@ function distanceFromHqInBlocks(street){
   let results = street -42;
   if (results < 0){
     return results * -1;
+  }else{
+    return results;
   }
 };
 
