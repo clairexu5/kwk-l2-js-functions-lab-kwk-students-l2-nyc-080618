@@ -15,3 +15,4 @@ function distanceFromHqInFeet(block){
 }
 
 distanceFromHqInFeet(block);
+
